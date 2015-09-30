@@ -1,1 +1,0 @@
-inp = raw_input('Enter something to check for palindrome: ')
